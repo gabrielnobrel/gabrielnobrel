@@ -1,4 +1,4 @@
-## OIIIEEE!!👽 Sou Gabriel Nobre
+## OIIIEEE!!🖖👽 Sou Gabriel Nobre
 
 <div align="center">
   <a href="https://github.com/gabrielnobrel">
