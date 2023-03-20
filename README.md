@@ -1,4 +1,4 @@
-## HELOOOO!!🖖:astronaut::rocket: 
+## HELOOOO!!🖖:rocket: 
 #### I'm Gabriel Nobrel
 a student graduating in Software Analysis and Development. Besides my college degree, I take courses focused on Front End, particularly in JS, HTML, and CSS, to deepen my knowledge in the field. I seek to experience new things, always trying to think outside the box.
 
