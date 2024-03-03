@@ -1,6 +1,9 @@
 ## HELOOOO!!🖖🚀 
-#### I'm Gabriel Nobrel
-a student graduating in Software Analysis and Development. Besides my college degree, I take courses focused on Front End, particularly in JS, HTML, and CSS, to deepen my knowledge in the field. I seek to experience new things, always trying to think outside the box.
+#### Sou Gabriel Nobrel
+formado em Análise e Desenvolvimento de Sistemas, com 3 anos de experiência no mercado. Atuo como Analista de BI e Inovação, transitando por diversos segmentos.
+Iniciei como Analista de Negócios, conectando demandas comerciais a soluções tecnológicas. Como Desenvolvedor Frontend, liderando a criação de uma ferramenta inovadora em parceria com a Prefeitura de Fortaleza, aprimorei habilidades em React, JavaScript, Firebase, TypeScript e socket.
+Na etapa de Analista de BI e Processos de Inovação, implementei automações e destaco a criação de dashboards estratégicos com ferramentas como Power BI.
+Minha trajetória reflete meu compromisso com a inovação, análise de negócios e soluções inteligentes. Busco explorar novos horizontes, impulsionando a inovação em cada desafio.
 
 <div align="center">
   <a href="https://github.com/gabrielnobrel">
