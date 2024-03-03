@@ -30,5 +30,3 @@ Minha trajetória reflete meu compromisso com a inovação, análise de negócio
   <a href="https://www.linkedin.com/in/gabrielnobrel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/gabrielnobrel/"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white&color=509D40" target="_blank"></a>
 </div>
-
-![snake gif](https://github.com/gabrielnobrel/gabrielnobrel/blob/output/github-contribution-grid-snake.gif)
