@@ -1,11 +1,8 @@
 ## HELOOOO!!🖖🚀 
-#### Sou Gabriel Nobrel
+### Sou Gabriel Nobrel
 formado em Análise e Desenvolvimento de Sistemas, com 3 anos de experiência no mercado. Atuo como Analista de BI e Inovação, transitando por diversos segmentos.
 
 Iniciei como Analista de Negócios, conectando demandas comerciais a soluções tecnológicas. Como Desenvolvedor Frontend, liderando a criação de uma ferramenta inovadora em parceria com a Prefeitura de Fortaleza, aprimorei habilidades em React, JavaScript, Firebase, TypeScript e socket.
-
-Na etapa de Analista de BI e Processos de Inovação, implementei automações e destaco a criação de dashboards estratégicos com ferramentas como Power BI.
-
 Minha trajetória reflete meu compromisso com a inovação, análise de negócios e soluções inteligentes. Busco explorar novos horizontes, impulsionando a inovação em cada desafio.
 
 <div align="center">
@@ -19,6 +16,9 @@ Minha trajetória reflete meu compromisso com a inovação, análise de negócio
   <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Gabs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Gabs-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/43c623824b10ce922f548db5f016dffa.gif" align="right" width="150" height="150" border-radius="10px;" alt="Gabs-pic"></a>
 </div>
 
