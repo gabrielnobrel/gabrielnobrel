@@ -1,9 +1,17 @@
 ## HELOOOO!!🖖🚀 
-### Sou Gabriel Nobrel
-formado em Análise e Desenvolvimento de Sistemas, com 3 anos de experiência no mercado. Atuo como Analista de BI e Inovação, transitando por diversos segmentos.
+🎓 Formado em Análise e Desenvolvimento de Sistemas, com 3 anos de experiência, sou apaixonado por tecnologia, inovação e desenvolvimento frontend.
 
-Iniciei como Analista de Negócios, conectando demandas comerciais a soluções tecnológicas. Como Desenvolvedor Frontend, liderando a criação de uma ferramenta inovadora em parceria com a Prefeitura de Fortaleza, aprimorei habilidades em React, JavaScript, Firebase, TypeScript e socket.
-Minha trajetória reflete meu compromisso com a inovação, análise de negócios e soluções inteligentes. Busco explorar novos horizontes, impulsionando a inovação em cada desafio.
+🚀 Atualmente, sou Desenvolvedor Frontend, trabalhando com React, Next.js, JavaScript, TypeScript e Firebase para construir aplicações modernas e performáticas.
+
+🛠️ Minha trajetória inclui:
+
+Análise de Negócios: conectando demandas comerciais a soluções tecnológicas.
+Desenvolvimento Frontend: liderei a criação de uma ferramenta inovadora em parceria com a Prefeitura de Fortaleza.
+BI e Inovação: implementei automações e criei dashboards estratégicos usando Power BI, facilitando a tomada de decisão baseada em dados.
+
+💡 O que me motiva? Criar soluções impactantes e eficientes, sempre explorando novos desafios para impulsionar a inovação.
+
+📌 Explore meus projetos e contribuições aqui no GitHub!
 
 <div align="center">
   <a href="https://github.com/gabrielnobrel">
@@ -12,13 +20,12 @@ Minha trajetória reflete meu compromisso com a inovação, análise de negócio
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Gabs-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
   <img align="center" alt="Gabs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Gabs-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/43c623824b10ce922f548db5f016dffa.gif" align="right" width="150" height="150" border-radius="10px;" alt="Gabs-pic"></a>
 </div>
 
